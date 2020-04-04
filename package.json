@@ -78,7 +78,7 @@
     "ip": "1.1.5",
     "linkifyjs": "^2.1.8",
     "lodash": "4.17.11",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-animate-on-change": "^2.1.1",
